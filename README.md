@@ -1,2 +1,2 @@
 # cuisine.github.io
-Cuisine
+Cuisine photos
